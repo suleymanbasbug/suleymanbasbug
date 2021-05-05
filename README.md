@@ -62,4 +62,4 @@
 </p>
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/sbasbug?si=5r5Ga0h6TUqhCD7QI9221w)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Suleyman Spotify Playing" width="350" />](https://open.spotify.com/user/sbasbug?si=5r5Ga0h6TUqhCD7QI9221w)
