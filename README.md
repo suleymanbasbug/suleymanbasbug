@@ -50,12 +50,5 @@
   <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suleymanbasbug&hide=python&layout=compact&show_icons=true&theme=tokyonight">
   </p>
-  
-  <a href="https://github.com/fatihkayan20/CarRent">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=fatihkayan20&repo=CarRent&show_icons=true&theme=tokyonight"</img>
-  </a>
-  <a href="https://github.com/fatihkayan20/fatihkayan20">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=fatihkayan20&repo=fatihkayan20&show_icons=true&theme=tokyonight"</img>
-  </a>
 </p>
 
